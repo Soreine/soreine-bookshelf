@@ -8,12 +8,12 @@ are *tags*. Novels are mostly real *books*. Short stories usually are
 Novels
 -------
 
-* [Strunk & White - The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style) 50% #communication
+* [Strunk & White - The Elements of Style](https://en.wikipedia.org/wiki/The_Elements_of_Style) (50%) #communication
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) #videogames #software-design
-* [Game Engine Architecture](http://gameenginebook.com/) 40% #videogames #software-design
+* [Game Engine Architecture](http://gameenginebook.com/) (40%) #videogames #software-design
 * [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment) #unix #shell
 * [The Unix and Internet Fundamentals HOWTO](http://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/) #computers #unix
-* [Fundamentals of Computer Graphics](http://www.cs.cornell.edu/~srm/fcg3/) 30% #graphics
+* [Fundamentals of Computer Graphics](http://www.cs.cornell.edu/~srm/fcg3/) (30%) #graphics
 
 Short stories
 --------------
@@ -26,7 +26,7 @@ Short stories
 
 Quotes
 ------
-* [What-are-the-best-kept-secrets-of-great-programmers](https://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers/answer/Jens-Rantil?srid=tsOh&share=1) #meta
+* [What are the best kept secrets of great programmers](https://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers/answer/Jens-Rantil?srid=tsOh&share=1) #meta
 
 Not finished reading
 ----------------------
